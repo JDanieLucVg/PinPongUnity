@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3ba6ecb2c5e39443ea7f4d3ca8fdd1b5
+  - enabled: 1
+    path: Assets/Scenes/JugadorVsIA.unity
+    guid: aa40843c5d15544e1ac8461c8b5c071f
+  - enabled: 1
+    path: Assets/Scenes/JugadorVSJugador.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/VictoriaJug1.unity
+    guid: e6661d56410304be988972a1c5797c88
+  - enabled: 1
+    path: Assets/Scenes/VictoriaJug2.unity
+    guid: 5e7430edf472a44919a095c2df654b06
+  m_configObjects: {}
